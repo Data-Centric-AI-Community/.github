@@ -1,4 +1,5 @@
-![banner_dcai](img/banner_dcai.png)
+![banner_dcai](banner_dcai.png)
+
 <a href="https://medium.com/data-centric-ai-community">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
@@ -40,4 +41,4 @@ You can follow our updates on the [community blog](https://datacentricai.communi
 Feel free to get in touch! You can reach us at community@ydata.ai or join us on our [Discord Server](https://discord.gg/mw7xjJ7b7s).
 
 
-![footer:dcai](img/footer-dcai.png)
+![footer:dcai](footer-dcai.png)
