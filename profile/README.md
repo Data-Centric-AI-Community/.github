@@ -21,13 +21,14 @@
     <img src="https://img.shields.io/badge/ydata%20synthetic-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <!-- LinkedIn-->
-<a href="https://www.linkedin.com/company/75424487/admin/"><img height="25" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/ld.png"/></a>
+<a href="https://www.linkedin.com/company/75424487/admin/"><img height="22" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/ld.png"/></a>
 <!-- Twitter-->
-<a href="https://twitter.com/datacentric_ai"><img height="25" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/tw.png"/></a>
+<a href="https://twitter.com/datacentric_ai"><img height="22" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/tw.png"/></a>
 
 <br>
 
-**Welcome to the Data-Centric AI Community!**<a href="https://datacentricai.community"><img height="25" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/dcai.png"/></a>
+<a href="https://datacentricai.community"><img height="50" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/dcai.png"/></a>
+## Welcome to the Data-Centric AI Community!
 
 We're a group of data science enthusiasts committed to developing AI and ML applications with a focus on data quality! We get together to learn, discuss, and collaborate on topics such as Data Quality, Data Profiling, Data Labeling, and Synthetic Data, closing the gap between data understanding and improvement.
 
