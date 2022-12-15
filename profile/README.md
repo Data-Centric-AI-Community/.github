@@ -18,7 +18,11 @@
 </a>
 <!-- YData Synthetic-->
 <a href="https://github.com/ydataai/ydata-synthetic">
-    <img src="https://img.shields.io/badge/ydata%20synthetic-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/ydata%20quality-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<!-- YData Quality-->
+<a href="https://github.com/ydataai/ydata-quality">
+    <img src="https://img.shields.io/badge/ydata%20profiling-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <!-- LinkedIn-->
 <a href="https://www.linkedin.com/company/75424487/admin/"><img height="25" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/ld.png"/></a>
