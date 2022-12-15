@@ -4,13 +4,17 @@
 <a href="https://medium.com/data-centric-ai-community">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
-<!-- Discord-->
-<a href="https://discord.gg/mw7xjJ7b7s">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+<!-- LinkedIn-->
+<a href="https://www.linkedin.com/company/75424487/admin/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" />
 </a>
 <!-- Youtube-->
 <a href="https://www.youtube.com/channel/UC9kgR_2mkvnve73mTtAR6Jg">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<!-- Discord-->
+<a href="https://discord.gg/mw7xjJ7b7s">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <!-- YData Profiling-->
 <a href="https://github.com/ydataai/pandas-profiling">
@@ -21,13 +25,16 @@
     <img src="https://img.shields.io/badge/ydata%20synthetic-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <!-- LinkedIn-->
-<a href="https://www.linkedin.com/company/75424487/admin/"><img height="22" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/ld.png"/></a>
+<!-- <a href="https://www.linkedin.com/company/75424487/admin/"><img height="22" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/ld.png"/></a>-->
 <!-- Twitter-->
-<a href="https://twitter.com/datacentric_ai"><img height="22" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/tw.png"/></a>
+<!--<a href="https://twitter.com/datacentric_ai"><img height="22" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/tw.png"/></a>-->
 
-<br>
+<br/>
+&nbsp;
+&nbsp;
 
 <a href="https://datacentricai.community"><img height="50" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/dcai.png"/></a>
+
 ## Welcome to the Data-Centric AI Community!
 
 We're a group of data science enthusiasts committed to developing AI and ML applications with a focus on data quality! We get together to learn, discuss, and collaborate on topics such as Data Quality, Data Profiling, Data Labeling, and Synthetic Data, closing the gap between data understanding and improvement.
