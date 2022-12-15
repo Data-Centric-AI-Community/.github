@@ -1,4 +1,4 @@
-![banner_dcai](banner_dcai.png)
+<img src="./img/banner_dcai.png" alt="banner_dcai">
 
 <a href="https://medium.com/data-centric-ai-community">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
