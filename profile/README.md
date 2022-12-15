@@ -1,4 +1,4 @@
-<img src="./img/banner_dcai.png" alt="banner_dcai">
+![banner_dcai](https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/banner_dcai.png)
 
 <a href="https://medium.com/data-centric-ai-community">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
@@ -32,7 +32,7 @@
 
 We're a group of data science enthusiasts committed to developing AI and ML applications with a focus on data quality! We get together to learn, discuss, and collaborate on topics such as Data Quality, Data Profiling, Data Labeling, and Synthetic Data, closing the gap between data understanding and improvement.
 
-We're also the main contributors of **pandas-profiling**, **ydata-synthetic**, and **ydata-quality**, three open-source projects focused on producing **high-quality data** for machine learning applications. Contributions are welcome, just [check our repositories here](https://github.com/ydataai) and get started on those PRs!
+We're also the main contributors of [pandas-profiling](https://github.com/ydataai/pandas-profiling), [ydata-synthetic](https://github.com/ydataai/ydata-synthetic), and [ydata-quality](https://github.com/ydataai/ydata-quality), three open-source projects focused on producing **high-quality data** for machine learning applications. Contributions are welcome, go ahead and get started on those PRs!
 
 
 You can follow our updates on the [community blog](https://datacentricai.community) and subscribe to our [newsletter](https://datacentricai.community/#newsletter) for monthly tricks and tips on how to achieve actionable data to feed your machine learning models.
@@ -41,4 +41,4 @@ You can follow our updates on the [community blog](https://datacentricai.communi
 Feel free to get in touch! You can reach us at community@ydata.ai or join us on our [Discord Server](https://discord.gg/mw7xjJ7b7s).
 
 
-![footer:dcai](footer-dcai.png)
+![footer_dcai](https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/footer-dcai.png)
