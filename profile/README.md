@@ -1,15 +1,8 @@
 ![banner_dcai](https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/banner_dcai.png)
 
+<!-- Medium-->
 <a href="https://medium.com/data-centric-ai-community">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-<!-- LinkedIn-->
-<a href="https://www.linkedin.com/company/75424487/admin/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" />
-</a>
-<!-- Twitter-->
-<a href="https://mobile.twitter.com/datacentric_ai">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <!-- Discord-->
 <a href="https://discord.gg/mw7xjJ7b7s">
@@ -27,8 +20,13 @@
 <a href="https://github.com/ydataai/ydata-synthetic">
     <img src="https://img.shields.io/badge/ydata%20synthetic-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<!-- LinkedIn-->
+<a href="https://www.linkedin.com/company/75424487/admin/"><img height="25" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/ld.png"/></a>
+<!-- Twitter-->
+<a href="https://twitter.com/datacentric_ai"><img height="25" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/tw.png"/></a>
 
-**Welcome to the Data-Centric AI Community!**<a href="https://datacentricai.community"><img height="25" src="img/dcai.png"/></a>
+
+**Welcome to the Data-Centric AI Community!**<a href="https://datacentricai.community"><img height="25" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/dcai.png"/></a>
 
 We're a group of data science enthusiasts committed to developing AI and ML applications with a focus on data quality! We get together to learn, discuss, and collaborate on topics such as Data Quality, Data Profiling, Data Labeling, and Synthetic Data, closing the gap between data understanding and improvement.
 
