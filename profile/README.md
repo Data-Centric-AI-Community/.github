@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" />
 </a> -->
 <!-- Youtube-->
-<a href="https://www.youtube.com/channel/UC9kgR_2mkvnve73mTtAR6Jg">
+<a href="https://www.youtube.com/channel/UC4AFOG1a8b9r46G9w0CacUA">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <!-- Discord-->
