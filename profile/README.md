@@ -54,7 +54,7 @@ We're a group of **data science enthusiasts committed to developing AI and ML ap
 You can follow our updates on the [website blog](https://datacentricai.community) or on [Medium](https://medium.com/data-centric-ai-community) and subscribe to our [newsletter](https://datacentricai.community/#newsletter) to stay up to date with our events, data initiatives, and to receive monthly tricks and tips on how to achieve actionable data to feed your machine learning models.
 
 
-📧 Feel free to get in touch! You can reach us at community@ydata.ai. And good news, if you have questions about project such as [ydata-profiling](https://github.com/ydataai/ydata-profiling) or [ydata-synthetic](https://github.com/ydataai/ydata-synthetic), you can find the right persons to help you in our community! 🥳
+📧 Feel free to get in touch! You can reach us at community@ydata.ai. And good news, if you have questions about projects such as [ydata-profiling](https://github.com/ydataai/ydata-profiling) or [ydata-synthetic](https://github.com/ydataai/ydata-synthetic), you can find the right persons to help you in our community! 🥳
 
 
 ![footer_dcai](https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/footer-dcai.png)
