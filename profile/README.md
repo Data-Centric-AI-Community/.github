@@ -38,20 +38,23 @@
 
 <a href="https://datacentricai.community"><img height="50" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/dcai.png"/></a>
 
-## Welcome to the Data-Centric AI Community!
+## Welcome to the Data-Centric AI Community
+We're a group of **data science enthusiasts committed to developing AI and ML applications** with a focus on data quality! We get together to **learn, discuss, and collaborate** on topics such as **Data Quality, Data Profiling, and Synthetic Data**, closing the gap between data understanding and improvement.
 
-We're a group of data science enthusiasts committed to developing AI and ML applications with a focus on data quality! We get together to learn, discuss, and collaborate on topics such as Data Quality, Data Profiling, Data Labeling, and Synthetic Data, closing the gap between data understanding and improvement.
 
-We're also the main contributors of [ydata-profiling](https://github.com/ydataai/ydata-profiling), [ydata-synthetic](https://github.com/ydataai/ydata-synthetic), and [ydata-quality](https://github.com/ydataai/ydata-quality), three open-source projects focused on producing **high-quality data** for machine learning applications. Contributions are welcome, go ahead and get started on those PRs!
+### Start learning data science with beginner-friendly projects! 💻 </b>
+
+
+- 🤖 **nist-crc-2023**: Your first hands-on [machine learning project](https://github.com/Data-Centric-AI-Community/nist-crc-2023) on synthetic data
+- 🐍 **awesome-python-for-data-science**: The roadmap to [learn data science](https://github.com/Data-Centric-AI-Community/awesome-python-for-data-science) in 2023!
+- 📦 **awesome-data-centric-ai**: Stay up to data with the latest resources on [Data-Centric AI](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai)
+- 👾 **Join us on our [Discord Server](http://discord.com/invite/mw7xjJ7b7s)** to meet and learn from other data enthusiasts!
 
 
 You can follow our updates on the [website blog](https://datacentricai.community) or on [Medium](https://medium.com/data-centric-ai-community) and subscribe to our [newsletter](https://datacentricai.community/#newsletter) to stay up to date with our events, data initiatives, and to receive monthly tricks and tips on how to achieve actionable data to feed your machine learning models.
 
 
-If you're not sure where to start, look into our [awesome-data-centric-ai](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai) repository for a curated list of Data-Centric AI tools or get your data skills to the next-level with our [tutorials and resources](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai/tree/master/medium).
-
-
-Feel free to get in touch! You can reach us at community@ydata.ai or join us on our [Discord Server](https://discord.gg/mw7xjJ7b7s).
+📧 Feel free to get in touch! You can reach us at community@ydata.ai. And good news, if you have questions about project such as [ydata-profiling](https://github.com/ydataai/ydata-profiling) or [ydata-synthetic](https://github.com/ydataai/ydata-synthetic), you can find the right persons to help you in our community! 🥳
 
 
 ![footer_dcai](https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/footer-dcai.png)
