@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <!-- Discord-->
-<a href="https://discord.gg/mw7xjJ7b7s">
+<a href="https://tiny.ydata.ai/dcai-community-github">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <!-- YData Profiling-->
@@ -48,7 +48,7 @@ We're a group of **data science enthusiasts committed to developing AI and ML ap
 - 🤖 **nist-crc-2023**: Your first hands-on [machine learning project](https://github.com/Data-Centric-AI-Community/nist-crc-2023) on synthetic data
 - 🐍 **awesome-python-for-data-science**: The roadmap to [learn data science](https://github.com/Data-Centric-AI-Community/awesome-python-for-data-science) in 2023!
 - 📦 **awesome-data-centric-ai**: Stay up to data with the latest resources on [Data-Centric AI](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai)
-- 👾 **Join us on our [Discord Server](http://discord.com/invite/mw7xjJ7b7s)** to meet and learn from other data enthusiasts!
+- 👾 **Join us on our [Discord Server](https://tiny.ydata.ai/dcai-community-github)** to meet and learn from other data enthusiasts!
 
 
 You can follow our updates on the [website blog](https://datacentricai.community) or on [Medium](https://medium.com/data-centric-ai-community) and subscribe to our [newsletter](https://datacentricai.community/#newsletter) to stay up to date with our events, data initiatives, and to receive monthly tricks and tips on how to achieve actionable data to feed your machine learning models.
