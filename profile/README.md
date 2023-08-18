@@ -43,10 +43,9 @@ We're a group of **data science enthusiasts committed to developing AI and ML ap
 
 
 ### Start learning data science with beginner-friendly projects! 💻 </b>
-
-
-- 🤖 **nist-crc-2023**: Your first hands-on [machine learning project](https://github.com/Data-Centric-AI-Community/nist-crc-2023) on synthetic data
 - 🐍 **awesome-python-for-data-science**: The roadmap to [learn data science](https://github.com/Data-Centric-AI-Community/awesome-python-for-data-science) in 2023!
+- 🧠 **code-with-me**: Wanna catch up on some [collaborative projects in data science](https://github.com/Data-Centric-AI-Community/code-with-me)? Join our **code-with-me** sessions and start building small projects every other Thursday!
+- 🤖 **nist-crc-2023**: Your first hands-on [machine learning project](https://github.com/Data-Centric-AI-Community/nist-crc-2023) on synthetic data
 - 📦 **awesome-data-centric-ai**: Stay up to data with the latest resources on [Data-Centric AI](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai)
 - 👾 **Join us on our [Discord Server](http://discord.com/invite/mw7xjJ7b7s)** to meet and learn from other data enthusiasts!
 
