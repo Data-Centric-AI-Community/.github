@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <!-- YData Profiling-->
-<a href="https://github.com/ydataai/pandas-profiling">
+<a href="https://github.com/ydataai/ydata-profiling">
     <img src="https://img.shields.io/badge/ydata%20profiling-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <!-- YData Synthetic-->
@@ -44,8 +44,6 @@ We're a group of **data science enthusiasts committed to developing AI and ML ap
 
 ### Start learning data science with beginner-friendly projects! 💻 </b>
 - 🐍 **awesome-python-for-data-science**: The roadmap to [learn data science](https://github.com/Data-Centric-AI-Community/awesome-python-for-data-science) in 2023!
-- 🧠 **code-with-me**: Wanna catch up on some [collaborative projects in data science](https://github.com/Data-Centric-AI-Community/code-with-me)? Join our **code-with-me** sessions and start building small projects every other Thursday!
-- 🤖 **nist-crc-2023**: Your first hands-on [machine learning project](https://github.com/Data-Centric-AI-Community/nist-crc-2023) on synthetic data
 - 📦 **awesome-data-centric-ai**: Stay up to data with the latest resources on [Data-Centric AI](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai)
 - 👾 **Join us on our [Discord Server](https://tiny.ydata.ai/dcai-community-github)** to meet and learn from other data enthusiasts!
 
@@ -54,6 +52,3 @@ You can follow our updates on the [website blog](https://datacentricai.community
 
 
 📧 Feel free to get in touch! You can reach us at community@ydata.ai. And good news, if you have questions about projects such as [ydata-profiling](https://github.com/ydataai/ydata-profiling) or [ydata-synthetic](https://github.com/ydataai/ydata-synthetic), you can find the right persons to help you in our community! 🥳
-
-
-![footer_dcai](https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/footer-dcai.png)
