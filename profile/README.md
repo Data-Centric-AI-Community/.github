@@ -1,5 +1,3 @@
-![banner_dcai](https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/banner_dcai.png)
-
 <!-- Medium-->
 <a href="https://medium.com/data-centric-ai-community">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
