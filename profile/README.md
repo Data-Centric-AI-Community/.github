@@ -22,7 +22,7 @@
 &nbsp;
 &nbsp;
 
-<a href="https://datacentricai.community"><img height="50" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/dcai.png"/></a>
+<a href="https://datacentricai.community"><img height="50" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/datacentricai_logo.png"/></a>
 
 ## Welcome to the Data-Centric AI Community
 We're a group of **data science enthusiasts committed to developing AI and ML applications** with a focus on data quality! We get together to **learn, discuss, and collaborate** on topics such as **Data Quality, Data Profiling, and Synthetic Data**, closing the gap between data understanding and improvement.
